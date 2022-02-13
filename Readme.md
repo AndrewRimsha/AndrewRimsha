@@ -7,7 +7,7 @@
       <th class='tg-0pky'>
         <div class='center'>
           <blockquote class="twitter-tweet" data-partner="tweetdeck">
-          <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
+          <p lang="en" dir="ltr">Link to my LinkedIn 
           <a href="https://www.linkedin.com/in/andrewrimsha/">Andrew Rimsha</a> 
           </blockquote>
         </div>
