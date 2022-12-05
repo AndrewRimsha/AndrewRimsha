@@ -1,5 +1,5 @@
-![Image description here](https://raw.githubusercontent.com/AndrewRimsha/AndrewRimsha/main/avatar.jpg "Welcome to my GitHub Page")
-## I'm Andrew <br> <br>
+![Andrew Rimsha's GitHub Page](https://raw.githubusercontent.com/AndrewRimsha/AndrewRimsha/main/avatar.jpg "Welcome to my GitHub Page")
+## I'm Andrew <br><br>
 
 <table class='tg'>
   <thead>
